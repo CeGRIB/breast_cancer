@@ -4,18 +4,18 @@
 ## Overview
 A Streamlit web application that predicts pIC50 values for compounds targeting breast cancer proteins using machine learning models trained on ChEMBL bioactivity data.
 
-## Live Demo
+### Live Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-pic50.streamlit.app/)
-```markdown
-## Features
+
+### Features
 
 - 🎯 Target-specific predictions for 20+ breast cancer proteins
 - 🧪 Models trained on experimental data from ChEMBL database
 - 🖥️ Simple CSV input with SMILES strings
 - 📊 Instant predictions with downloadable results
 - 🚀 Powered by CatBoost and RDKit
-
-
+  
+```markdown
 ## Installation
 
 ```bash
