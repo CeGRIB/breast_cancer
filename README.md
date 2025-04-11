@@ -84,21 +84,3 @@ MIT License
 ## Contact
 
 Afolabi Owoloye - [@afolabiowoloye](https://github.com/afolabiowoloye)
-
----
-
-> **Note**: Replace `YOUR_APP_URL` and GitHub links with your actual URLs before use.
-```
-
-This version:
-- Uses clean markdown formatting
-- Includes all essential sections
-- Has emoji visuals for better readability
-- Contains placeholder URLs you should replace
-- Is optimized for GitHub's markdown rendering
-
-You can copy this entire block and paste it directly into your README.md file. Just remember to:
-1. Replace placeholder URLs
-2. Update the contact information
-3. Add any additional model performance metrics
-4. Verify the file paths match your actual structure
