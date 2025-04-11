@@ -1,6 +1,6 @@
 # Breast Cancer pIC50 Prediction Web App
 
-![App Logo](images/logo.png)
+![App Logo](logo/logo.png)
 
 
 ```markdown
