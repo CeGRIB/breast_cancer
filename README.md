@@ -1,13 +1,10 @@
 # Breast Cancer pIC50 Prediction Web App
 
 ![App Logo](logo/logo.png)
-
-
-```markdown
 ## Overview
-
 A Streamlit web application that predicts pIC50 values for compounds targeting breast cancer proteins using machine learning models trained on ChEMBL bioactivity data.
 
+```markdown
 ## Features
 
 - 🎯 Target-specific predictions for 20+ breast cancer proteins
