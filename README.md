@@ -79,4 +79,4 @@ MIT License
 
 ## Contact
 
-Afolabi Owoloye - [@afolabiowoloye](https://github.com/afolabiowoloye)
+CeGRIB - [@cegrib](https://github.com/cegrib)
