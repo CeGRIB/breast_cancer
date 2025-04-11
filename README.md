@@ -18,7 +18,7 @@ A Streamlit web application that predicts pIC50 values for compounds targeting b
 
 ## Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-pic50.streamlit.app/)
+[![Streamlit App](https://breast-cancer-pic50.streamlit.app/)]
 
 ## Installation
 
