@@ -76,4 +76,4 @@ MIT License
 
 ## Contact
 
-CeGRIB - [@cegrib](https://github.com/cegrib)
+CeGRIB - [@cegrib](https://www.linkedin.com/company/cegrib/?viewAsMember=true)
