@@ -19,11 +19,11 @@ A Streamlit web application that predicts pIC50 values for compounds targeting b
 ## Installation
 
 ```bash
-git clone https://github.com/CeGRIB/breast_cancer.git
-cd breast_cancer
-conda  create -n "breastcancer python=3.12  #create a python 3.12 environment
-conda activate breastcancer  #activate your environment
-pip install -r requirements.txt
+git clone https://github.com/CeGRIB/breast_cancer.git  #clone the GitHub repo
+cd breast_cancer                          
+conda  create -n "breastcancer python=3.12             #create a python 3.12 environment
+conda activate breastcancer                            #activate your environment
+pip install -r requirements.txt                        #install dependencies
 ```
 
 ## Usage
