@@ -1,4 +1,4 @@
-#             Breast Cancer pIC50 Prediction Web App
+#  Breast Cancer pIC50 Prediction Web App
 
 ![App Logo](logo/logo.png)
 ## Overview
@@ -60,7 +60,9 @@ Compound2,CC(=O)OC1=CC=CC=C1C(=O)O
 ```
 ├── app.py                # Main application
 ├── requirements.txt      # Dependencies
+├── sample.txt            # sample file
 ├── models/               # Pretrained models
+├── notebooks/            # Training notebooks
 ├── notebooks/            # Training notebooks
 └── images/               # App visuals
 ```
