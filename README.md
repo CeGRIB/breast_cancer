@@ -58,13 +58,16 @@ Compound2,CC(=O)OC1=CC=CC=C1C(=O)O
 ## File Structure
 
 ```
+├── data/                 # dataset
+├── images/               # plots 
+├── logo/                 # app logo
+├── models/               # Algorithms
+├── notebooks/            # Training notebooks
+├── LICENSE               # Apache2.0
+├── READ.ME               # Instructions
 ├── app.py                # Main application
 ├── requirements.txt      # Dependencies
-├── sample.txt            # sample file
-├── models/               # Pretrained models
-├── notebooks/            # Training notebooks
-├── notebooks/            # Training notebooks
-└── images/               # App visuals
+└── sample.csv            # sample file
 ```
 
 ## Contributing
