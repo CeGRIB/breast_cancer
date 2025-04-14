@@ -19,7 +19,7 @@ A Streamlit web application that predicts pIC50 values for compounds targeting b
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/breast-cancer-pic50-predictor.git
+git clone https://github.com/CeGRIB/breast-cancer-pic50-predictor.git
 cd breast-cancer-pic50-predictor
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
