@@ -21,8 +21,8 @@ A Streamlit web application that predicts pIC50 values for compounds targeting b
 ```bash
 git clone https://github.com/CeGRIB/breast_cancer.git
 cd breast_cancer
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+conda  create -n "breastcancer python=3.12  #create a python 3.12 environment
+conda activate breastcancer  #activate your environment
 pip install -r requirements.txt
 ```
 
