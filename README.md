@@ -47,26 +47,6 @@ Compound2,CC(=O)OC1=CC=CC=C1C(=O)O
 
 [Sample Input File](https://example.com/sample.csv)
 
-## Model Performance
-
-| Target  | R²    | RMSE |
-|---------|-------|------|
-| ER      | 0.87  | 0.45 |
-| HER2    | 0.85  | 0.48 |
-| AKT     | 0.82  | 0.51 |
-| ER      | 0.87  | 0.45 |
-| HER2    | 0.85  | 0.48 |
-| AKT     | 0.82  | 0.51 |
-| ER      | 0.87  | 0.45 |
-| HER2    | 0.85  | 0.48 |
-| AKT     | 0.82  | 0.51 |
-| ER      | 0.87  | 0.45 |
-| HER2    | 0.85  | 0.48 |
-| AKT     | 0.82  | 0.51 |
-| ER      | 0.87  | 0.45 |
-| HER2    | 0.85  | 0.48 |
-| AKT     | 0.82  | 0.51 |
-
 ## File Structure
 
 ```
